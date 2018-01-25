@@ -1,6 +1,6 @@
-# EWW - English Words, the Weirdest
+# English Words, the Weirdest
 
-| Word | Descr | author
+| Word | Descr | Author
 |:---|:---|:---|
 | ludicrous | so foolish, unreasonable, or out of place as to be amusing. | blah |
 | seamless | (of a fabric or surface) smooth and without seams or obvious joins. | blah |
