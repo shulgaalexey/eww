@@ -18,3 +18,10 @@
 | quibble | to complain about small and unimportant matters | blah |
 | covet | to desire improperly | blahblah |
 | crave | to have strong need or desire | blahblah |
+| ingrate | a person who is not grateful | T |
+| blueprint | an early plan or design that explains how something might be achieved (other meaning: ​a photographic copy of an early plan for a building or machine) | B |
+| impartial | not supporting any of the sides involved in an argument | Al |
+| confound | to confuse and very much surprise someone, so that they are unable to explain or deal with a situation |
+| obliterate | to remove all signs of something, either by destroying it or by covering it so that it cannot be seen | B |
+| perplexity | a state of confusion or a complicated and difficult situation or thing | Al |
+| linger | to take a long time to leave or disappear | An |
